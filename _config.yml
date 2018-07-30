@@ -59,7 +59,8 @@ menu:
   # sitemap: /sitemap.xml || sitemap
   # commonweal: /404/ || heartbeat
   VueTest: https://madshawn.github.io/VueTest || bug
-  baidu: http://www.baidu.com || search
+  Baidu: http://www.baidu.com || search
+  ES6Tutorial: https://madshawn.github.io/es6tutorial || search
 
 # Enable/Disable menu icons.
 menu_icons:
